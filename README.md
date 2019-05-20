@@ -25,6 +25,9 @@ Images à disposition :
 * wordpress
 
 ## Example
+
 [ico]disqus[/ico]
+
 [ico color="#000066" padding="20px" radius="30px"]wordpress[/ico]
+
 [ico color="red" radius="0"]html[/ico]
