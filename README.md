@@ -25,7 +25,7 @@ Images à disposition :
 * typepad
 * wordpress
 
-## Example
+## Exemple
 
 [ico]disqus[/ico]
 
