@@ -29,7 +29,7 @@ function mon_plugin_ico_shortcode($atts, $content){
     }
 
     // Retourne le code HTML.
-    return $html = '<img style="background-color:'.$color.'; padding:'.$padding.'; border-radius:'.$radius.';"'
+    return '<img style="background-color:'.$color.'; padding:'.$padding.'; border-radius:'.$radius.';"'
           .' src="'.$imgPath.'" alt="wordpress" /%gt;>';
 }
 
