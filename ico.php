@@ -1,6 +1,8 @@
 <?php
 /*
 Plugin Name: Mon plugin ico
+Description: Implémentation d'un shortcode d'ajout d'image.
+Author: Léo Meli
 */
 
 
@@ -30,7 +32,7 @@ function mon_plugin_ico_shortcode($atts, $content){
 
     // Retourne le code HTML.
     return '<img style="background-color:'.$color.'; padding:'.$padding.'; border-radius:'.$radius.';"'
-          .' src="'.$imgPath.'" alt="wordpress" /%gt;>';
+          .' src="'.$imgPath.'" alt="wordpress">';
 }
 
 //Enregistre les shortcodes du plugin
