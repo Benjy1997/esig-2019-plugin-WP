@@ -1,7 +1,8 @@
 # esig-2019-plugin-WP ICO-PLUGIN
 ## Description
 Ce plugin implémente le shortcode [ICO].
-[ICO] permet d'ajouter rapidement une image à un article ou une page.
+
+[ICO] permet d'ajouter rapidement une image à un article ou une page WordPress.
 ## Attributs
 * color : choix de la couleur de fond.
 * padding : choix de la marge intérieur.
