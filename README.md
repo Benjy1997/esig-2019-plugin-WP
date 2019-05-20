@@ -11,7 +11,7 @@ Ce plugin implémente le shortcode [ICO].
 Le shortcode encapsule le nom de l'image.
 
 Images à disposition :
-* blogger ![alt text](https://github.com/Benjy1997/esig-2019-plugin-WP/blob/master/img/blogger.png "Logo Title Text 1")
+* blogger
 * disqus
 * drupal
 * expression-engine
